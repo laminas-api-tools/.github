@@ -1,6 +1,7 @@
 ---
 name: 💥 BC Break
 about: Have you encountered an issue during upgrade? 💣
+labels: BC Break
 ---
 
 <!--
