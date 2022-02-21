@@ -16,3 +16,6 @@ In particular:
   - [SUPPORT.md](SUPPORT.md)
 - Travis Build Templates:
   - [Supported PHP versions build template](travis/supported.yml)
+- Shared Tool Configurations:
+  - [Renovate](RENOVATE.md)
+
